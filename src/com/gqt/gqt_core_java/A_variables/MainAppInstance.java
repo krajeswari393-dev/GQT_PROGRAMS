@@ -12,6 +12,8 @@ class Dog{
 		System.out.println(age);
 		System.out.println(cost);
 		System.out.println(breed);
+		System.out.println(breed);
+		
 	}
 	
 }
@@ -27,5 +29,6 @@ public class MainAppInstance{
 		d1.display();
 
 	}
+
 
 }
